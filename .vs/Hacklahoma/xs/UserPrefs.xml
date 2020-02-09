@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{331F42D6-6177-DD38-6E09-B57723E03119}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Boss/BossEnd.cs">
+    <Files>
+      <File FileName="Assets/Boss/BossEnd.cs" Line="27" Column="53" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hacklahoma" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Boss" expanded="True">
+                <Node name="BossEnd.cs" selected="True" />
+              </Node>
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Hacklahoma" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c57cfa88-17cc-47c3-9209-d1518666e7b8" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
